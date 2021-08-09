@@ -15,7 +15,7 @@ _____________________________________________________
 》》 pkg install python2
 
 
-》》 https://github.com/shazada-shariar/Creck_fb
+》》 git clone https://github.com/shazada-shariar/Creck_fb
 
 
 》》 cd Creck_fb
